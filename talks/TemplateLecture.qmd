@@ -1,38 +1,10 @@
 ---
-title: "Template Lecture"
-author: "gordon wright"
-date: "UPDATE"
-bibliography: sliderefs.bib
-csl: apa7.csl
-mainfont: "Atkinson Hyperlegible"
-
-format:
-  revealjs:
+pagetitle: "Template Lecture"
+format: 
+  revealjs: 
     theme: Lectures_RM.scss
-    # slide-number: true
-    # logo: "images/GoldLogo.png"
-    # footer: "[Research Methods in Psychology](http://www.bbc.co.uk/)"
-    # transition: fade
-    # background-transition: fade
-    # navigation-mode: linear
-    # highlight-style: a11y
-    # code-link: true
-    # preview-links: true
-    # 
-    # footnotes-hover: true
-    # links-as-notes: true
-    # reference-location: section
-    # category: slides, Research Methods
-    # 
-    # citations-hover: true
-    # citation-location: margin
-    # self-contained: true
-    # incremental: false
-    # multiplex: true
-
-
-execute:
-  freeze: auto
+    highlight-style: a11y
+editor: visual
 ---
 
 # introduction 2007
