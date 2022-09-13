@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "SlidesHub"
+  description: "All the good stuff"
+  site-url: " UPDATE "
+
+  page-footer:
+    right: "This page is built with ☕,❤️ Q[uarto](https://quarto.org/)."
+    left: "&copy; Copyright 2022, Dr Gordon Wright"
+
+  style: "docked"
+  sidebar:
+    tools:
+      - icon: github
+        href: UPDATE
+    contents:
+      - href: index.qmd
+        text: Home
+      # - href: paper.qmd
+      #   text: Paper
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    mainfont: "Atkinson Hyperlegible"
+
+editor: visual
+
+execute:
+  freeze: auto

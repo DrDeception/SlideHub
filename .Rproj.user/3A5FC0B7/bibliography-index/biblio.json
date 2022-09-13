@@ -1,0 +1,107 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1016/j.paid.2014.07.019",
+            "ISSN": "01918869",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0191886914004152",
+            "author": [
+                {
+                    "family": "Baughman",
+                    "given": "Holly M."
+                },
+                {
+                    "family": "Jonason",
+                    "given": "Peter K."
+                },
+                {
+                    "family": "Lyons",
+                    "given": "Minna"
+                },
+                {
+                    "family": "Vernon",
+                    "given": "Philip A."
+                }
+            ],
+            "container-title": "Personality and Individual Differences",
+            "id": "baughman2014a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014,
+                        12
+                    ]
+                ]
+            },
+            "page": "35-38",
+            "title": "Liar liar pants on fire: Cheater strategies linked to the dark triad",
+            "title-short": "Liar liar pants on fire",
+            "type": "article-journal",
+            "volume": "71"
+        },
+        {
+            "DOI": "10.1037/pspp0000369",
+            "ISSN": "1939-1315",
+            "author": [
+                {
+                    "family": "Hughes",
+                    "given": "Bradley T."
+                },
+                {
+                    "family": "Flournoy",
+                    "given": "John C."
+                },
+                {
+                    "family": "Srivastava",
+                    "given": "Sanjay"
+                }
+            ],
+            "container-title": "Journal of Personality and Social Psychology",
+            "id": "hughes2021",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "184-200",
+            "publisher": "American",
+            "title": "Is perceived similarity more than assumed similarity? An interpersonal path to seeing similarity between self and others",
+            "type": "article-journal",
+            "volume": "121"
+        },
+        {
+            "DOI": "10.1016/j.paid.2011.11.023",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0191886911005459",
+            "author": [
+                {
+                    "family": "Jonason",
+                    "given": "Peter K."
+                },
+                {
+                    "family": "Webster",
+                    "given": "Gregory D."
+                }
+            ],
+            "container-title": "Personality and Individual Differences",
+            "id": "jonason2012c",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "521-526",
+            "title": "A protean approach to social influence: Dark Triad personalities and social influence tactics",
+            "title-short": "A protean approach to social influence",
+            "type": "article-journal",
+            "volume": "52"
+        }
+    ],
+    "project_biblios": []
+}
