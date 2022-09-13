@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "talks/TemplateLecture.html",
+    "href": "talks/TemplateLecture.html",
+    "title": "SlidesHub",
+    "section": "",
+    "text": "Johanna Hardin, Pomona College\nBenjamin S. Baumer, Smith College\nAmelia McNamara, University of St Thomas\nNicholas J. Horton, Amherst College\nColin W. Rundel, Duke University\n\n\n\n\n\n\n ## Scene 2\nAssumption 1:\nTeach authentic tools\n\n\nAssumption 2:\nTeach R as the authentic tool\n\n\n\n\n\n\n\nThe tidyverse provides an effective and efficient pathway for undergraduate students at all levels and majors to gain computational skills and thinking needed throughout the data science cycle.\n\n\nÇetinkaya-Rundel, M., Hardin, J., Baumer, B. S., McNamara, A., Horton, N. J., & Rundel, C. (2022). An educator’s perspective of the tidyverse. Technology Innovations in Statistics Education, 14(1). doi.org/10.5070/T514154352."
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#tidyverse",
+    "href": "talks/TemplateLecture.html#tidyverse",
+    "title": "SlidesHub",
+    "section": "tidyverse",
+    "text": "tidyverse\n\n\n\nmeta R package that loads eight core packages when invoked and also bundles numerous other packages upon installation\ntidyverse packages share a design philosophy, common grammar, and data structures"
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#setup",
+    "href": "talks/TemplateLecture.html#setup",
+    "title": "SlidesHub",
+    "section": "setup",
+    "text": "setup\nData: Thousands of loans made through the Lending Club, a peer-to-peer lending platform available in the openintro package, with a few modifications."
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#start-with-a-data-frame",
+    "href": "talks/TemplateLecture.html#start-with-a-data-frame",
+    "title": "SlidesHub",
+    "section": "start with a data frame",
+    "text": "start with a data frame"
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#tidy-data",
+    "href": "talks/TemplateLecture.html#tidy-data",
+    "title": "SlidesHub",
+    "section": "tidy data",
+    "text": "tidy data\n\nEach variable forms a column\nEach observation forms a row\nEach type of observational unit forms a table\n\n\n\nWickham, H. . (2014). Tidy Data. Journal of Statistical Software, 59(10), 1–23. doi.org/10.18637/jss.v059.i10."
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#task-calculate-a-summary-statistic",
+    "href": "talks/TemplateLecture.html#task-calculate-a-summary-statistic",
+    "title": "SlidesHub",
+    "section": "task: calculate a summary statistic",
+    "text": "task: calculate a summary statistic\n\nCalculate the mean loan amount.\n\n\nMore verbose\nBut also more expressive and extensible"
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#the-tidyverse-approach",
+    "href": "talks/TemplateLecture.html#the-tidyverse-approach",
+    "title": "SlidesHub",
+    "section": "the tidyverse approach",
+    "text": "the tidyverse approach\n\n\ntidyverse functions take a data argument that allows them to localize computations inside the specified data frame\ndoes not muddy the concept of what is in the current environment: variables always accessed from within in a data frame without the use of an additional function (like with()) or quotation marks, never as a vector"
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#task-grouped-summary",
+    "href": "talks/TemplateLecture.html#task-grouped-summary",
+    "title": "SlidesHub",
+    "section": "task: grouped summary",
+    "text": "task: grouped summary\n\nBased on the applicants’ home ownership status, compute the average loan amount and the number of applicants. Display the results in descending order of average loan amount."
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#break-it-down-i",
+    "href": "talks/TemplateLecture.html#break-it-down-i",
+    "title": "SlidesHub",
+    "section": "break it down I",
+    "text": "break it down I\n\nBased on the applicants’ home ownership status, compute the average loan amount and the number of applicants. Display the results in descending order of average loan amount.\n\n\nBased on the applicants’ home ownership status, compute the average loan amount and the number of applicants. Display the results in descending order of average loan amount."
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#pedagogical-strengths-of-the-tidyverse",
+    "href": "talks/TemplateLecture.html#pedagogical-strengths-of-the-tidyverse",
+    "title": "SlidesHub",
+    "section": "pedagogical strengths of the tidyverse",
+    "text": "pedagogical strengths of the tidyverse"
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#coda",
+    "href": "talks/TemplateLecture.html#coda",
+    "title": "SlidesHub",
+    "section": "coda",
+    "text": "coda\n\n\n\nWe are all converts to the tidyverse and have made a conscious choice to use it in our research and our teaching. We each learned R without the tidyverse and have all spent quite a few years teaching without it at a variety of levels from undergraduate introductory statistics courses to graduate statistical computing courses. This paper is a synthesis of the reasons supporting our tidyverse choice, along with benefits and challenges associated with teaching statistics with the tidyverse.\n\n\n\n\n\n\n\n\n\n\nÇetinkaya-Rundel, M., Hardin, J., Baumer, B. S., McNamara, A., Horton, N. J., & Rundel, C. (2022). An educator’s perspective of the tidyverse. Technology Innovations in Statistics Education, 14(1). doi.org/10.5070/T514154352. ::: :::"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CHANGE TITLE 2007",
+    "section": "",
+    "text": "Is this Atkinson? 2007D\n\nStuff\n\n☕"
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#collaborators",
+    "href": "talks/TemplateLecture.html#collaborators",
+    "title": "SlidesHub",
+    "section": "collaborators",
+    "text": "collaborators\n\nJohanna Hardin, Pomona College\nBenjamin S. Baumer, Smith College\nAmelia McNamara, University of St Thomas\nNicholas J. Horton, Amherst College\nColin W. Rundel, Duke University"
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#setting-the-scene",
+    "href": "talks/TemplateLecture.html#setting-the-scene",
+    "title": "SlidesHub",
+    "section": "setting the scene",
+    "text": "setting the scene\n\n\n ## Scene 2\nAssumption 1:\nTeach authentic tools\n\n\nAssumption 2:\nTeach R as the authentic tool"
+  },
+  {
+    "objectID": "talks/TemplateLecture.html#takeaway",
+    "href": "talks/TemplateLecture.html#takeaway",
+    "title": "SlidesHub",
+    "section": "takeaway",
+    "text": "takeaway\n\n\nThe tidyverse provides an effective and efficient pathway for undergraduate students at all levels and majors to gain computational skills and thinking needed throughout the data science cycle.\n\n\n\nÇetinkaya-Rundel, M., Hardin, J., Baumer, B. S., McNamara, A., Horton, N. J., & Rundel, C. (2022). An educator’s perspective of the tidyverse. Technology Innovations in Statistics Education, 14(1). doi.org/10.5070/T514154352."
+  }
+]
